@@ -1,0 +1,81 @@
+SAFE::The service will be provided as described on the order confirmation page
+SAFE::Users may cancel the subscription at any time with effect from the next billing cycle
+SAFE::All prices include applicable taxes and no additional fees will be charged
+SAFE::Refunds are issued within seven business days after approval
+SAFE::Personal data is used only to deliver the requested service
+SAFE::Delivery will occur within five to seven working days from payment confirmation
+SAFE::Both parties may terminate the agreement with thirty days written notice
+SAFE::Changes to these terms will be communicated before they take effect
+SAFE::Payment information is processed through a secure third party provider
+SAFE::Support requests are addressed during stated business hours
+SAFE::The company will notify users in case of service disruption
+SAFE::Unused balance will remain valid until the stated expiration date
+SAFE::Data will be deleted upon account closure within a defined period
+SAFE::Users can opt out of marketing communications at any time
+SAFE::Liability is limited to the amount paid for the service
+SAFE::Delivery address can be updated before shipment is dispatched
+SAFE::A clear contact email is provided for disputes and questions
+SAFE::Refund eligibility criteria are listed in a dedicated section
+SAFE::Service access is granted immediately after successful payment
+SAFE::Invoices are available for download from the user dashboard
+SAFE::Orders are confirmed only after successful payment verification
+SAFE::Delivery charges are displayed before final checkout
+SAFE::Users receive a confirmation email for every transaction
+SAFE::Refunds are processed to the original payment method
+SAFE::Data is collected only for account and service functionality
+SAFE::Users can download a copy of their stored data
+SAFE::The service includes access for the duration stated at purchase
+SAFE::Delivery tracking details are shared once shipment is dispatched
+SAFE::Account suspension requires prior notice to the user
+SAFE::Customer support contact details are clearly published
+SAFE::Prices remain fixed for the duration of the billing period
+SAFE::Users can update personal information from account settings
+SAFE::Service limitations are clearly listed in advance
+SAFE::Termination by either party requires written notice
+SAFE::Taxes and duties are calculated and shown during checkout
+SAFE::Refund requests can be submitted through a defined process
+SAFE::Data backups are maintained for a limited stated period
+SAFE::The company complies with applicable data protection laws
+SAFE::Late delivery qualifies for a partial refund as stated
+SAFE::Users are informed before any service downtime
+
+RISKY::The company may change fees at any time without notice
+RISKY::Service availability is subject to internal discretion
+RISKY::All payments are final and refunds may or may not be issued
+RISKY::User data may be shared with partners for various purposes
+RISKY::Delivery timelines are approximate and not guaranteed
+RISKY::The agreement can be terminated by the company at any moment
+RISKY::Additional charges may apply under certain conditions
+RISKY::Continued use implies acceptance of any future changes
+RISKY::The company is not responsible for any loss of any kind
+RISKY::Refund requests are handled on a case by case basis
+RISKY::Features may be removed without prior communication
+RISKY::Data may be retained indefinitely after account closure
+RISKY::The company decides the final interpretation of these terms
+RISKY::Support may be discontinued without explanation
+RISKY::Delivery may be delayed for reasons beyond our control
+RISKY::Prices shown do not include potential processing costs
+RISKY::User consent is assumed upon account creation
+RISKY::The company may suspend access without stating a reason
+RISKY::Terms apply retroactively to past transactions
+RISKY::Disputes must be resolved only in a location chosen by the company
+RISKY::The company may introduce new charges without informing users
+RISKY::Delivery dates are estimates and may change without notice
+RISKY::Refund approval is entirely at the company discretion
+RISKY::User data can be used for unspecified business purposes
+RISKY::Service access can be revoked without prior warning
+RISKY::Prices may differ from those displayed at checkout
+RISKY::The company holds no responsibility for delayed delivery
+RISKY::Account data may be transferred during business changes
+RISKY::Terms may be updated automatically upon continued use
+RISKY::Refund timelines are not defined
+RISKY::Delivery partners may change without user notification
+RISKY::The company may limit features at any time
+RISKY::User consent is assumed for all communications
+RISKY::Support availability is not guaranteed
+RISKY::Charges may apply after service cancellation
+RISKY::The company is not liable for service interruptions
+RISKY::Data retention duration is not specified
+RISKY::Dispute outcomes are decided solely by the company
+RISKY::Services may be paused due to internal policies
+RISKY::Delivery confirmation is not mandatory
