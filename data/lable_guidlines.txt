@@ -1,0 +1,19 @@
+1. If the statement uses clear specific words with defined meanings it is SAFE if it uses vague or open ended language it is RISKY
+
+2. If both parties have equal rights to end the agreement it is SAFE if only one side can terminate at any time it is RISKY
+
+3. If all costs fees and charges are fully listed it is SAFE if any fees are hidden conditional or mentioned indirectly it is RISKY
+
+4. If refund conditions are clearly explained it is SAFE if refunds are unclear restricted or missing it is RISKY
+
+5. If user consent is explicit and optional it is SAFE if consent is forced automatic or bundled it is RISKY
+
+6. If responsibilities of all parties are balanced it is SAFE if most obligations fall on the user only it is RISKY
+
+7. If penalties and consequences are clearly stated and limited it is SAFE if penalties are undefined excessive or unlimited it is RISKY
+
+8. If the statement explains how data is used stored and shared it is SAFE if data handling is unclear or overly broad it is RISKY
+
+9. If changes to terms require user notice or approval it is SAFE if one side can change terms anytime without notice it is RISKY
+
+10. If dispute resolution is fair and accessible to both sides it is SAFE if it restricts user rights or legal options it is RISKY
