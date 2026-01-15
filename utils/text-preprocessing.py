@@ -1,6 +1,4 @@
 import string
-
-
 def preprocess_texts(statements):
     processed_list = []
     for text in statements:
@@ -9,7 +7,3 @@ def preprocess_texts(statements):
         tokens = text.split()
         processed_list.append(tokens)
     return processed_list
-
-
-
-
