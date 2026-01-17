@@ -30,10 +30,7 @@ project_root/
 │ └─ naive_bayes.py # Naive Bayes model class and training/prediction
 │
 ├─ core/
-│ └─ main.py # Terminal interface for paragraph input
-│
-└─ tests/
-└─ test_model.py # Optional test scripts
+└─ main.py # Terminal interface for paragraph input
 
 
 ---
