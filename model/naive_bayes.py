@@ -1,5 +1,5 @@
 from math import log
-from utils.preprocessing import preprocess_texts
+from utils.text_preprocessing import preprocess_texts
 
 class NaiveBayesClassifier:
     def __init__(self):

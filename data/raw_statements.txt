@@ -38,6 +38,26 @@ SAFE::Data backups are maintained for a limited stated period
 SAFE::The company complies with applicable data protection laws
 SAFE::Late delivery qualifies for a partial refund as stated
 SAFE::Users are informed before any service downtime
+SAFE::Users may contact support to resolve any disputes in a timely manner
+SAFE::Dispute resolution options are clearly explained and accessible to all users
+SAFE::Both parties have equal rights to raise a dispute regarding the service
+SAFE::Consent for data usage is explicitly requested during account creation
+SAFE::Users can withdraw their consent for marketing communications at any time
+SAFE::Any disputes can be escalated to a neutral mediator with prior notice
+SAFE::Arbitration procedures are clearly described and fair to both parties
+SAFE::Consent for optional services is never bundled with mandatory agreements
+SAFE::Users are informed of their right to dispute billing errors without penalty
+SAFE::A clear process for submitting complaints is provided on the website
+SAFE::Both parties must agree to arbitration before it is initiated
+SAFE::Users may review and change their consent preferences at any time
+SAFE::Disputes are resolved according to the rules stated in the terms
+SAFE::Consent for data sharing is specific and not assumed automatically
+SAFE::Arbitration costs are shared equally unless otherwise stated
+SAFE::Users can request written confirmation of dispute resolutions
+SAFE::Consent requests clearly explain the purpose and scope of data use
+SAFE::Any arbitration will be conducted in a neutral location agreed upon by both parties
+SAFE::Users can opt out of optional agreements without affecting core services
+SAFE::Dispute timelines are clearly defined to ensure prompt resolution
 
 RISKY::The company may change fees at any time without notice
 RISKY::Service availability is subject to internal discretion
